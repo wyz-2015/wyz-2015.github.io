@@ -1,12 +1,16 @@
 # Index
 
-欢迎果蝇等同学光临本站！
+欢迎Sex Study 生物实验室的同学和521雄果蝇养殖中心的同学光临本站！
+
+本站之源：[Github](https://github.com/wyz-2015/wyz-2015.github.io)
+
+<div style="text-align:right">wyz\_2015</div>
 
 ## 有什么
 
-* [README](README)
+* [README](README)*(特异性作用于Github，这里无法打开查看。)*
 * [合金弹头系列资源](docs/mslug)
-* [电影](docs/films)*(尚未创建)*
+* [电影](docs/films)
 
 ## 帮助
 
