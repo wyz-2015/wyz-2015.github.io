@@ -9,17 +9,11 @@
 以`Windows XP`为例。
 
 1. 如图，在“`控制面板`”中找到“`网络链接`”，选中自己所用网络，右键，`属性`。
-<center>
-![DNS-Windows-1](https://wyz-2015.github.io/help/img/Win-1.png)
-</center>
+[DNS-Windows-1](https://wyz-2015.github.io/help/img/Win-1.png)
 2. 如图，选中“`Internet 协议 (TCP/IP) (IPv4)`”，点击“`属性`”，设置DNS服务器地址。建议直接填“`114.114.114.114`”，可用、好记。想用其他的DNS服务器请参阅上方文献。
-<center>
 ![DNS-Windows-2](https://wyz-2015.github.io/help/img/Win-2.png)
-</center>
 3. 成功进入。
-<center>
 ![DNS-Windows-3](https://wyz-2015.github.io/help/img/Win-3.png)
-</center> 
 
 ## Linux
 
@@ -42,14 +36,12 @@ nameserver xxx.xxx.xxx.xxx
 ``` conf
 nameserver 114.114.114.114
 ```
-<center>
 ![DNS-Linux-1](https://wyz-2015.github.io/help/img/Lin-1.png)
-<br>
-<div style="color:blue; border-bottom: 1px solid #d9d9d9;
-display: inline-block; color: #999; padding: 2px;">
-图中使用《`Vim`》编辑文件，实际操作时可以使用你喜爱的编辑器。
-</div>
-</center>
+<br><small>图中使用《`Vim`》编辑文件，实际操作时可以使用你喜爱的编辑器。</small>
+
+### 经常访问的用户
+
+啊……我懒得写了。看[这里](https://jingyan.baidu.com/article/e9fb46e15d83517521f766f1.html)吧。
 
 ## MacOS
 
