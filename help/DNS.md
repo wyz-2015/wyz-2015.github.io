@@ -27,7 +27,6 @@
 ``` bash
 sudo vim /etc/resolv.conf
 ```
-以编辑。
 2. 如图，将
 ``` conf
 nameserver xxx.xxx.xxx.xxx
