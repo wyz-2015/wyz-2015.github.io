@@ -4,7 +4,7 @@
 
 本站之源：[Github](https://github.com/wyz-2015/wyz-2015.github.io)
 
-<div style="text-align:right">wyz\_2015</div>
+<div style="text-align:right">wyz_2015</div>
 
 ## 有什么
 
