@@ -4,21 +4,21 @@
 
 ## Windows
 
-    <small>参考自CSDN博客《[解决打不开 xxx.github.io的万能解决方法](https://blog.csdn.net/weixin_43769878/article/details/109217112)》</small>
+<small>参考自CSDN博客《[解决打不开 xxx.github.io的万能解决方法](https://blog.csdn.net/weixin_43769878/article/details/109217112)》</small>
 
 以`Windows XP`为例。
 
 1. 如图，在“`控制面板`”中找到“`网络链接`”，选中自己所用网络，右键，`属性`。
 <center>
-![DNS-Windows-1](img/Win-1.jpg)
+![DNS-Windows-1](img/Win-1.png)
 </center>
 2. 如图，选中“`Internet 协议 (TCP/IP) (IPv4)`”，点击“`属性`”，设置DNS服务器地址。建议直接填“`114.114.114.114`”，可用、好记。想用其他的DNS服务器请参阅上方文献。
 <center>
-![DNS-Windows-2](img/Win-2.jpg)
+![DNS-Windows-2](img/Win-2.png)
 </center>
 3. 成功进入。
 <center>
-![DNS-Windows-3](img/Win-3.jpg)
+![DNS-Windows-3](img/Win-3.png)
 </center> 
 
 ## Linux
@@ -43,12 +43,12 @@ nameserver xxx.xxx.xxx.xxx
 nameserver 114.114.114.114
 ```
 <center>
-    ![DNS-Linux-1](img/Lin-1.jpg)
-    <br>
-    <div style="color:blue; border-bottom: 1px solid #d9d9d9;
-    display: inline-block; color: #999; padding: 2px;">
-    图中使用《`Vim`》编辑文件，实际操作时可以使用你喜爱的编辑器。
-    </div>
+![DNS-Linux-1](img/Lin-1.png)
+<br>
+<div style="color:blue; border-bottom: 1px solid #d9d9d9;
+display: inline-block; color: #999; padding: 2px;">
+图中使用《`Vim`》编辑文件，实际操作时可以使用你喜爱的编辑器。
+</div>
 </center>
 
 ## MacOS
