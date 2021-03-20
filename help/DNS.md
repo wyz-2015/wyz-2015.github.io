@@ -9,7 +9,7 @@
 以`Windows XP`为例。
 
 1. 如图，在“`控制面板`”中找到“`网络链接`”，选中自己所用网络，右键，`属性`。
-[DNS-Windows-1](https://wyz-2015.github.io/help/img/Win-1.png)
+![DNS-Windows-1](https://wyz-2015.github.io/help/img/Win-1.png)
 2. 如图，选中“`Internet 协议 (TCP/IP) (IPv4)`”，点击“`属性`”，设置DNS服务器地址。建议直接填“`114.114.114.114`”，可用、好记。想用其他的DNS服务器请参阅上方文献。
 ![DNS-Windows-2](https://wyz-2015.github.io/help/img/Win-2.png)
 3. 成功进入。
