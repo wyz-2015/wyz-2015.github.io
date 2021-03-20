@@ -9,17 +9,18 @@
 以`Windows XP`为例。
 
 1. 如图，在“`控制面板`”中找到“`网络链接`”，选中自己所用网络，右键，`属性`。
-
-<center>![DNS-Windows-1](img/Win-1.jpg)</center>
-
+<center>
+![DNS-Windows-1](img/Win-1.jpg)
+</center>
 2. 如图，选中“`Internet 协议 (TCP/IP) (IPv4)`”，点击“`属性`”，设置DNS服务器地址。建议直接填“`114.114.114.114`”，可用、好记。想用其他的DNS服务器请参阅上方文献。
-
-<center>![DNS-Windows-2](img/Win-2.jpg)</center>
-
+<center>
+![DNS-Windows-2](img/Win-2.jpg)
+</center>
 3. 成功进入。
+<center>
+![DNS-Windows-3](img/Win-3.jpg)
+</center> 
 
-<center>![DNS-Windows-3](img/Win-3.jpg)</center>
- 
 ## Linux
 
 ### 偶尔访问的用户
@@ -29,25 +30,18 @@
 以`Lubuntu`为例。
 
 1. 在“`终端`”里键入：
-
 ``` bash
 sudo vim /etc/resolv.conf
 ```
-
 以编辑。
-
 2. 如图，将
-
 ``` conf
 nameserver xxx.xxx.xxx.xxx
 ```
-
 改为
-
 ``` conf
 nameserver 114.114.114.114
 ```
-
 <center>
     ![DNS-Linux-1](img/Lin-1.jpg)
     <br>
