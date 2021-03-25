@@ -11,3 +11,4 @@
 1. [在Lubuntu里使用Windows软件](wine)
 2. [将LXQt调成WinXP风格](luna)
 3. [《由DNS设置引起的“打不开本站”的问题的解决办法》之“Linux”章节](../help/DNS)
+4. [这篇文章写得好啊，应该给果蝇看看的！](https://wiki.ubuntu.org.cn/Linux%E4%B8%8D%E6%98%AFWindows/zh)
