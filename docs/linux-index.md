@@ -1,6 +1,6 @@
 # Linux使用随便乱记
 
-该用户现在正在使用[`Lubuntu 20.04 LTS`](https://lubuntu,me)。
+该用户现在正在使用[`Lubuntu 20.04 LTS`](https://lubuntu.me)。
 
 平时~~瞎搞~~使用电脑，学会了什么~~骚~~操作，或大或小，悉以录之。
 
