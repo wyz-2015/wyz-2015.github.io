@@ -23,3 +23,7 @@
 1. 下载并安装《[VirtualBox](https://www.virtualbox.org)》。
 2. 前往[msdn](https://msdn.itellyou.cn/)站点下载你想要的Windows系统镜像文件。
 3. 找一份**非Ghost**的系统安装教程，按说明安装。
+
+----
+
+[回到上一页](../linux-index)

@@ -11,6 +11,7 @@
 * [README](README)*(特异性作用于Github，这里无法打开查看。)*
 * [合金弹头系列资源](docs/mslug)
 * [电影](docs/films)
+* [Linux使用随便乱记](docs/linux)
 
 ## 帮助
 
