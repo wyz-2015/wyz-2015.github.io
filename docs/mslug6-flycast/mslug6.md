@@ -56,6 +56,6 @@ Flycast的可设置项与使用者电脑的实际情况相关，故没法给各�
 <br/>
 2021.6.20
 -->
-<p>——<a href="https://github.com/wyz-2015)">wyz_2015</a></p>
+<p>——<a href="https://github.com/wyz-2015">wyz_2015</a></p>
 2021.6.21
 </div>
